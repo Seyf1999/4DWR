@@ -36,3 +36,6 @@
     transform: rotate(360deg);
   }
 }
+.navbar-logo {
+  max-height: 40px; /* Définissez la hauteur maximale souhaitée */
+}

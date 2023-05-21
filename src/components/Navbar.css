@@ -1,0 +1,17 @@
+.navbar-logo {
+    max-height: 100px; /* Définissez la hauteur maximale souhaitée */
+  }
+  .nav-item-large {
+    font-size: 18px; /* Définissez la taille de police souhaitée */
+    padding: 10px 20px; /* Définissez les marges intérieures souhaitées */
+  }
+  .navbar-container {
+    height: 90px; /* Définissez la hauteur souhaitée */
+  }
+  .nav-item .active {
+    color: red; /* Définissez la couleur souhaitée */
+  }
+  
+  
+  
+  
